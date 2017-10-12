@@ -1,5 +1,4 @@
-import timeit
-from email.policy import default
+
 
 
 def average(people):
